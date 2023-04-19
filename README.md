@@ -1,2 +1,2 @@
-# Data_Science
+# Data Science
 The Data Science course at NTHU
